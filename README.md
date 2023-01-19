@@ -10,7 +10,7 @@ Back-End <br>
  <img src="https://img.shields.io/badge/mybatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white">
  <br>
  WAS<br>
- <img src="https://img.shields.io/badge/apachetomcat-4479A1?style=for-the-badge&logo=apachetomcat&logoColor=white">
+ <img src="https://img.shields.io/badge/apachetomcat-4479A1?style=for-the-badge&logo=apachetomcat&logoColor=white"><br>
 Front-End <br>
   <img src="https://img.shields.io/badge/javascript-F8DC75?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
