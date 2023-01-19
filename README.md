@@ -1,8 +1,8 @@
  
 <div align="center">
 Back-End <br>
+ <img src="https://img.shields.io/badge/java-4479A1?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"><br>
  <br>
  DB_Controll<br>
