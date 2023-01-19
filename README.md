@@ -1,6 +1,5 @@
- 
+## Back-End
 <div align="center">
-Back-End <br>
  <img src="https://img.shields.io/badge/java-4479A1?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"><br>
@@ -9,8 +8,8 @@ Back-End <br>
  <br>
  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"><br>
  </div>
+## Front-End
  <div align="center">
-Front-End <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
