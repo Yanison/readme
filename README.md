@@ -20,4 +20,6 @@ Front-End <br>
  IDE<br>
  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij&logoColor=white">
  
+ OS<br>
+ <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white">
 </div>
